@@ -12,27 +12,7 @@
 
 <h3 align="center">Principais Tecnologias</h3>
 <div align="center">
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
-  <i class="devicon-threedsmax-plain ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-  </i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40"/>
 </div>
 
 ## Contatos:
