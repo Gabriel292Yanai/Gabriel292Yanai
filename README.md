@@ -12,9 +12,7 @@
 
 <h3 align="center">Principais Tecnologias</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c, css, html, js, java, nodejs, py, react, mysql" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=c, css, html, js, java, nodejs, py, react, mysql&theme=light)](https://skillicons.dev)
 </div>
 
 ## Contatos:
@@ -27,5 +25,5 @@
   </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 
