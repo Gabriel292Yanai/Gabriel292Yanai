@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=c,css,html,js,java,nodejs,py,react,mysql" />
   </a>
 </p>
-## Contatos:
+Contatos:
 <div>
   <a href="mailto:gkyanai292@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
