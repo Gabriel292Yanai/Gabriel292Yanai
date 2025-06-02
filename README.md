@@ -11,9 +11,7 @@
 </div>
 
 <h3 align="center">Principais Tecnologias</h3>
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=c, css, html, js, java, nodejs, py, react, mysql&theme=light)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c, css, html, js, java, nodejs, py, react, mysql&theme=light)](https://skillicons.dev)
 
 ## Contatos:
 <div>
