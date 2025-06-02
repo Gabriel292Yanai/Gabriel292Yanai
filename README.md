@@ -11,8 +11,11 @@
 </div>
 
 <h3 align="center">Principais Tecnologias</h3>
-[![My Skills](https://skillicons.dev/icons?i=c, css, html, js, java, nodejs, py, react, mysql&theme=light)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,css,html,js,java,nodejs,py,react,mysql" />
+  </a>
+</p>
 ## Contatos:
 <div>
   <a href="mailto:gkyanai292@gmail.com">
